@@ -1,24 +1,12 @@
 # app-ts
 
-## Project setup
-```
-yarn install
-```
+<br />
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+###### 自定义组件使用介绍
+* [FromBaseTree组件](./readme/FromBaseTree.md)
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<br/>
+<br/>
+###### 项目插件介绍
+* [nprogress](https://www.npmjs.com/package/nprogress) 进度条
